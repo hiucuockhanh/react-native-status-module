@@ -156,5 +156,10 @@
         }
       ]
     ]
+  },
+  "dependencies": {
+    "@hiucuockhanh/react-native-input-status": "^0.1.4",
+    "@reduxjs/toolkit": "^1.9.7",
+    "react-redux": "^8.1.3"
   }
 }

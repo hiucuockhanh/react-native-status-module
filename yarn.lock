@@ -1436,10 +1436,10 @@
   dependencies:
     "@hapi/hoek" "^9.0.0"
 
-"@hiucuockhanh/react-native-input-status@^0.1.4":
-  version "0.1.4"
-  resolved "https://npm.pkg.github.com/download/@hiucuockhanh/react-native-input-status/0.1.4/5a427780dcad1fcffac8a3cce911e3c5ee8ed652"
-  integrity sha512-7ri7jqNqM+SZRysaKsx9uwcU4bAhE/d9HD4miFdc/cOxvJxczKKYRxT2PU6cvS9oT1u+G478r34dbD7DVA7g3Q==
+"@hiucuockhanh/react-native-input-status@^0.1.5":
+  version "0.1.5"
+  resolved "https://npm.pkg.github.com/download/@hiucuockhanh/react-native-input-status/0.1.5/dceec0f58baaa0b96a6ddea42d6c3186488217ef"
+  integrity sha512-2+atG72mhfSdgK9MsCIRtLPA85l/zUk1rJNsTCk1euki5CgKSVxMRfeFfwce1eIqkj9sIcsWG7PiKgPLR26S3w==
   dependencies:
     "@reduxjs/toolkit" "^1.9.7"
     react-redux "^8.1.3"
